@@ -3,7 +3,7 @@ ____
 
 To make sure that everything understandable, the general file structure should be as so:
 
-<code>
+
 ├── language  
 │   └── main-genre  
 │       ├── sub-genre    
@@ -11,4 +11,4 @@ To make sure that everything understandable, the general file structure should b
 │       ├── sub-genre  
 │       ├── sub-genre  
 │       └── sub-genre
-</code>
+
