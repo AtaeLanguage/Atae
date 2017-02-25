@@ -5,10 +5,10 @@ To make sure that everything understandable, the general file structure should b
 
 
 |-- english
-|   `-- alternative
+|   -- alternative
 |       |-- alternative-rock
 |       |-- college-rock
 |       |-- experimental-rock
 |       |-- goth-rock
-|       `-- grunge
+|       -- grunge
 
