@@ -4,11 +4,11 @@ ____
 To make sure that everything understandable, the general file structure should be as so:
 
 
-├── language  
-│   └── main-genre  
-│       ├── sub-genre    
-│       ├── sub-genre  
-│       ├── sub-genre  
-│       ├── sub-genre  
-│       └── sub-genre
+|-- english
+|   `-- alternative
+|       |-- alternative-rock
+|       |-- college-rock
+|       |-- experimental-rock
+|       |-- goth-rock
+|       `-- grunge
 
